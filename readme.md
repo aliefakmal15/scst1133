@@ -1,4 +1,4 @@
-Hello
+
 
 # SCST1133 — Data Engineering Ecosystem
 
